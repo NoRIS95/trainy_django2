@@ -1,0 +1,1 @@
+# trainy_django2
